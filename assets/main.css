@@ -64,6 +64,9 @@ a:hover {
 	text-align: center;
 	padding: 1.25rem;
 }
+munkam{
+border-radius: 8px;
+}
 @media (max-width: 767px){
   #profile-card{
   margin-left: 10%;
