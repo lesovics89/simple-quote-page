@@ -68,6 +68,7 @@ a:hover {
 }
 #munkam {
 border-radius: 10%;
+filter: grayscale(50%);
 }
 
 @media (max-width: 767px){
