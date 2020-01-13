@@ -133,12 +133,8 @@ strong{
 }
   }
   
-  @media (max-width: 767px){
-img {
- 
- width: 100%;
-}
-  }
+
+  
    @media (max-width: 767px){
 strong {
  font-size: 25px;
