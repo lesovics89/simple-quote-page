@@ -90,7 +90,7 @@ filter: drop-shadow(8px 8px 10px black) sepia(60%);
   background: rgba(150, 180, 180, 0.7); /* Green */
   border: none;
   color: black;
-  padding: 15px;
+  padding: 3%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -110,7 +110,13 @@ strong{
   font-size: 40px;
   
 }
-
+ @media (max-width: 1024px){
+ .btn-group .button {
+ height: 10%;
+ width: 100%;
+ text-align: center;
+}
+  }
 
 @media (max-width: 767px){
   #profile-card{
@@ -130,6 +136,7 @@ strong{
  .btn-group .button {
  height: 10%;
  width: 100%;
+ text-align: center;
 }
   }
   
@@ -138,7 +145,7 @@ img {
  
  width: 100%;
 }
-  
+  }
    @media (max-width: 767px){
 strong {
  font-size: 25px;
@@ -148,5 +155,3 @@ strong {
 h1{
   font-size: 30px;
   }
-  
- 
