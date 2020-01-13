@@ -72,10 +72,7 @@ a:hover {
   font-weight: bold;
 }
 /* ==== LAYOUT STYLES ==== */
-.profile-card {
-	text-align: center;
-	padding: 1.25rem;
-}
+
 #munkam {
 transition: all 0.2s ease-in-out;
 
@@ -118,9 +115,9 @@ strong{
 }
   }
 
-@media (max-width: 767px){
+@media (max-width: 1024px){
   #profile-card{
- 
+ margin-left: 10%;
   height: 50%;
   width: 80%;
   
