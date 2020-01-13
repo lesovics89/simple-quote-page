@@ -114,6 +114,8 @@ strong{
  text-align: center;
 }
   }
+  
+  
 
 @media (max-width: 1024px){
   #profile-card{
@@ -123,7 +125,12 @@ strong{
   
   }
   }
-  
+  @media (max-width: 767px){
+body {
+ background-size: 50% 50%;
+ 
+}
+  }
  
   
   @media (max-width: 767px){
