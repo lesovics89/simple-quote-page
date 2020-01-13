@@ -119,6 +119,13 @@ filter: drop-shadow(8px 8px 10px black) sepia(60%);
   text-align: center;
   }
   }
+  
+  @media (max-width: 767px){
+ .btn-group .button {
+ height: 10%;
+ width: 100%
+}
+  }
 h1{
   font-size: 30px;
   }
