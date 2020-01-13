@@ -126,6 +126,14 @@ filter: drop-shadow(8px 8px 10px black) sepia(60%);
  width: 100%
 }
   }
+  
+  @media (max-width: 767px){
+img {
+  
+  
+ width: 100%
+}
+  }
 h1{
   font-size: 30px;
   }
