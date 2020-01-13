@@ -124,13 +124,7 @@ strong{
   }
   }
   
-  @media (max-width: 767px){
- .btn-group .button {
- height: 10%;
- width: 100%;
- text-align: center;
-}
-  }
+ 
   
   @media (max-width: 767px){
 img {
@@ -138,7 +132,7 @@ img {
  width: 100%;
 }
   }
-   @media (max-width: 767px){
+   @media (max-width: 1024px){
 strong {
  font-size: 25px;
  
