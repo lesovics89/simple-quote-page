@@ -104,7 +104,11 @@ filter: drop-shadow(8px 8px 10px black) sepia(60%);
   color: white;
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
-
+strong{
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  
+}
 
 @media (max-width: 767px){
   #profile-card{
@@ -129,16 +133,16 @@ filter: drop-shadow(8px 8px 10px black) sepia(60%);
   
   @media (max-width: 767px){
 img {
-  
-  
+ 
  width: 100%
+}
+  }
+   @media (max-width: 767px){
+strong {
+ font-size: 25px;
+ 
 }
   }
 h1{
   font-size: 30px;
   }
-strong{
-  font-family: 'Dancing Script', cursive;
-  font-size: 40px;
-  
-}
