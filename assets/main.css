@@ -1,5 +1,6 @@
 body {
   background-image: url("https://i.imgur.com/92JlKme.jpg");
+  
    background-size: cover;
    background-repeat: no-repeat;
    background-attachment: fixed;
@@ -47,7 +48,7 @@ body {
 img {
   padding: 1px;
   background-color: #666;
-  
+  border: 0;
   filter: grayscale(30%);
   border-radius: 20%;
   transition: all 0.2s ease-in-out;
