@@ -129,7 +129,7 @@ strong{
    @media (max-width: 767px){
 body {
  background-attachment: fixed;
-  background-position: center bottom;
+  background-position: center center;
   background-size: 767px 550px;
 }
   }
