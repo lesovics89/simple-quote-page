@@ -133,8 +133,8 @@ body {
   background-position: top center;
   background-size: 767px 720px;
   background-image: url("https://i.imgur.com/92JlKme.jpg");
-   
-   background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  display: none;
 }
   }
  
@@ -157,7 +157,7 @@ h1{
   
   /* video*/
   #myVideo {
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
