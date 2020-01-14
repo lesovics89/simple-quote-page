@@ -8,8 +8,34 @@
 
 
 <url>
-  <loc>http://lesovicspeter.com/</loc>
-  <lastmod>2020-01-12T10:46:46+00:00</lastmod>
+  <loc>https://lesovicspeter.com/</loc>
+  <lastmod>2020-01-14T15:01:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://lesovicspeter.com/index.html</loc>
+  <lastmod>2020-01-14T15:01:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lesovicspeter.com/munkaim.html</loc>
+  <lastmod>2020-01-14T15:01:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lesovicspeter.com/rolam.html</loc>
+  <lastmod>2020-01-14T15:01:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lesovicspeter.com/szolgaltatas.html</loc>
+  <lastmod>2020-01-14T15:01:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lesovicspeter.com/elerhetoseg.html</loc>
+  <lastmod>2020-01-14T15:01:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
