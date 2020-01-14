@@ -129,7 +129,7 @@ strong{
    @media (max-width: 767px){
 body {
  background-attachment: fixed;
-  background-position: center center;
+  background-position: top center;
   background-size: 767px 550px;
   background-image: url("https://i.imgur.com/92JlKme.jpg");
    
