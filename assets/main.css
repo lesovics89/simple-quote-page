@@ -4,6 +4,7 @@ body {
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center center;
+   
    }
 #profile-image {
   height: 20vh;
@@ -125,7 +126,13 @@ strong{
   
   }
   }
-  
+   @media (max-width: 767px){
+body {
+ background-attachment: fixed;
+  background-position: center bottom;
+  background-size: 767px 550px;
+}
+  }
  
   
   @media (max-width: 767px){
