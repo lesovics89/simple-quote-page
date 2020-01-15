@@ -56,9 +56,7 @@ img {
 }
 img:hover, img:focus {
   transform: scale(1.1);
-  
-  
-  
+   
 }
 a {
   text-align: center;
