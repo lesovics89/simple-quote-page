@@ -127,11 +127,29 @@ strong{
   
   }
   }
+  @media (max-width: 1024px){
+  #myVideo {
+
+  display: none;
+  
+}
+  }
    @media (max-width: 767px){
 body {
-
+ background-attachment: fixed;
+  background-position: top center;
+  background-size: 767px 720px;
+  background-image: url("https://i.imgur.com/92JlKme.jpg");
+  background-repeat: no-repeat;
+  display: block;
   
-  z-index:-1;
+}
+  }
+   @media (max-width: 767px){
+#myVideo {
+
+  display: none;
+  
 }
   }
  
